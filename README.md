@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI-HUB**
 
-- 🌱 I’m currently learning **Everything in my path**
+- 🌱 I’m currently learning **everything in my path**
 
 - 💬 Ask me about **Python, Java**
 
