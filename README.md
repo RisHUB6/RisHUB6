@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
 <h3 align="center">A passionate developer, learner from India</h3>
 
-- 🔭 I’m currently working on **AI-HUB**
+- 🔭 I’m currently working with **Zenarate**
 
 - 🌱 I’m currently learning **everything in my path**
 
-- 💬 Ask me about **Python, Java**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **sharma2rishabh02@gmail.com**
 
